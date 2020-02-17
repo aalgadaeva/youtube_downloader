@@ -1,0 +1,7 @@
+env
+myvenv
+venv
+virtualenv
+.idea
+__pycache__
+
